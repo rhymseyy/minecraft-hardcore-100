@@ -1,0 +1,389 @@
+item_id,display_name,category,subcategory,required,obtained,has_stack,pct,obtain_method,difficulty,notes
+minecraft:stone,Stone,Building,Basic,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:granite,Granite,Building,Basic,64,0,False,0.0,Mine,,
+minecraft:polished_granite,Polished Granite,Building,Basic,64,0,False,0.0,Craft,,
+minecraft:diorite,Diorite,Building,Basic,64,0,False,0.0,Mine,,
+minecraft:polished_diorite,Polished Diorite,Building,Basic,64,0,False,0.0,Craft,,
+minecraft:andesite,Andesite,Building,Basic,64,0,False,0.0,Mine,,
+minecraft:polished_andesite,Polished Andesite,Building,Basic,64,0,False,0.0,Craft,,
+minecraft:deepslate,Deepslate,Building,Deepslate,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:cobbled_deepslate,Cobbled Deepslate,Building,Deepslate,64,0,False,0.0,Mine,,
+minecraft:polished_deepslate,Polished Deepslate,Building,Deepslate,64,0,False,0.0,Craft,,
+minecraft:calcite,Calcite,Building,Basic,64,0,False,0.0,Mine with Silk Touch,,Found in amethyst geodes
+minecraft:tuff,Tuff,Building,Basic,64,0,False,0.0,Mine,,
+minecraft:dripstone_block,Dripstone Block,Building,Cave,64,0,False,0.0,Mine,,
+minecraft:grass_block,Grass Block,Building,Nature,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:dirt,Dirt,Building,Nature,64,0,False,0.0,Mine,,
+minecraft:coarse_dirt,Coarse Dirt,Building,Nature,64,0,False,0.0,Craft / found,,
+minecraft:podzol,Podzol,Building,Nature,64,0,False,0.0,Mine with Silk Touch,,Mega Taiga biome
+minecraft:rooted_dirt,Rooted Dirt,Building,Nature,64,0,False,0.0,Mine,,Found under azalea trees
+minecraft:mud,Mud,Building,Nature,64,0,False,0.0,Use water bottle on dirt,,
+minecraft:sand,Sand,Building,Nature,64,0,False,0.0,Mine,,
+minecraft:red_sand,Red Sand,Building,Nature,64,0,False,0.0,Mine,,Badlands / mesa biome
+minecraft:gravel,Gravel,Building,Nature,64,0,False,0.0,Mine,,
+minecraft:coal_ore,Coal Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_coal_ore,Deepslate Coal Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:iron_ore,Iron Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_iron_ore,Deepslate Iron Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:copper_ore,Copper Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_copper_ore,Deepslate Copper Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:gold_ore,Gold Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_gold_ore,Deepslate Gold Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:redstone_ore,Redstone Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_redstone_ore,Deepslate Redstone Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:emerald_ore,Emerald Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,Mountains only
+minecraft:deepslate_emerald_ore,Deepslate Emerald Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:lapis_ore,Lapis Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_lapis_ore,Deepslate Lapis Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:diamond_ore,Diamond Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:deepslate_diamond_ore,Deepslate Diamond Ore,Building,Ore,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:nether_gold_ore,Nether Gold Ore,Building,Nether,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:nether_quartz_ore,Nether Quartz Ore,Building,Nether,64,0,False,0.0,Mine with Silk Touch,,
+minecraft:ancient_debris,Ancient Debris,Building,Nether,64,0,False,0.0,Mine,,Rarest block — Y8-22 Nether
+minecraft:coal_block,Block of Coal,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:iron_block,Block of Iron,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:copper_block,Block of Copper,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:gold_block,Block of Gold,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:redstone_block,Block of Redstone,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:emerald_block,Block of Emerald,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:lapis_block,Block of Lapis Lazuli,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:diamond_block,Block of Diamond,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:netherite_block,Block of Netherite,Building,Crafted,64,0,False,0.0,Craft,,Requires 9 netherite ingots each
+minecraft:amethyst_block,Block of Amethyst,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:raw_iron_block,Block of Raw Iron,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:raw_copper_block,Block of Raw Copper,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:raw_gold_block,Block of Raw Gold,Building,Crafted,64,0,False,0.0,Craft,,
+minecraft:oak_log,Oak Log,Building,Wood,64,5,False,7.8,Chop,,
+minecraft:spruce_log,Spruce Log,Building,Wood,64,0,False,0.0,Chop,,
+minecraft:birch_log,Birch Log,Building,Wood,64,7,False,10.9,Chop,,
+minecraft:jungle_log,Jungle Log,Building,Wood,64,0,False,0.0,Chop,,Jungle biome
+minecraft:acacia_log,Acacia Log,Building,Wood,64,0,False,0.0,Chop,,Savanna biome
+minecraft:dark_oak_log,Dark Oak Log,Building,Wood,64,0,False,0.0,Chop,,Dark Forest biome
+minecraft:mangrove_log,Mangrove Log,Building,Wood,64,0,False,0.0,Chop,,Mangrove Swamp biome
+minecraft:cherry_log,Cherry Log,Building,Wood,64,0,False,0.0,Chop,,Cherry Grove biome
+minecraft:bamboo_block,Bamboo Block,Building,Wood,64,0,False,0.0,Craft,,
+minecraft:crimson_stem,Crimson Stem,Building,Nether,64,0,False,0.0,Chop,,Crimson Forest
+minecraft:warped_stem,Warped Stem,Building,Nether,64,0,False,0.0,Chop,,Warped Forest
+minecraft:oak_sapling,Oak Sapling,Nature,Sapling,64,2,False,3.1,Drop from leaves,,
+minecraft:spruce_sapling,Spruce Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:birch_sapling,Birch Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:jungle_sapling,Jungle Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:acacia_sapling,Acacia Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:dark_oak_sapling,Dark Oak Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:mangrove_propagule,Mangrove Propagule,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:cherry_sapling,Cherry Sapling,Nature,Sapling,64,0,False,0.0,Drop from leaves,,
+minecraft:bamboo,Bamboo,Nature,Plant,64,0,False,0.0,Find in Jungle / Bamboo Forest,,
+minecraft:sugar_cane,Sugar Cane,Nature,Plant,64,0,False,0.0,Mine,,Near water
+minecraft:cactus,Cactus,Nature,Plant,64,0,False,0.0,Mine,,Desert
+minecraft:dead_bush,Dead Bush,Nature,Plant,64,0,False,0.0,Mine with Shears,,Desert/Badlands
+minecraft:fern,Fern,Nature,Plant,64,0,False,0.0,Mine with Shears,,Taiga
+minecraft:large_fern,Large Fern,Nature,Plant,64,0,False,0.0,Mine with Shears,,
+minecraft:grass,Short Grass,Nature,Plant,64,0,False,0.0,Mine with Shears,,
+minecraft:tall_grass,Tall Grass,Nature,Plant,64,0,False,0.0,Mine with Shears,,
+minecraft:seagrass,Seagrass,Nature,Aquatic,64,0,False,0.0,Mine with Shears,,
+minecraft:sea_pickle,Sea Pickle,Nature,Aquatic,64,0,False,0.0,Mine,,Warm ocean
+minecraft:kelp,Kelp,Nature,Aquatic,64,0,False,0.0,Mine,,Ocean
+minecraft:lily_pad,Lily Pad,Nature,Aquatic,64,0,False,0.0,Mine,,Swamp
+minecraft:vine,Vine,Nature,Plant,64,0,False,0.0,Mine with Shears,,Jungle/Swamp
+minecraft:glow_berries,Glow Berries,Nature,Food,64,0,False,0.0,Mine,,Lush Caves
+minecraft:sweet_berries,Sweet Berries,Nature,Food,64,0,False,0.0,Mine,,Taiga
+minecraft:bush,Bush,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Temperate biomes
+minecraft:cactus_flower,Cactus Flower,Nature,New 1.21.5,64,0,False,0.0,Mine,,Desert / Badlands — grows on cactus
+minecraft:firefly_bush,Firefly Bush,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Swamp / Mangrove Swamp
+minecraft:leaf_litter,Leaf Litter,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Forest floors
+minecraft:wildflowers,Wildflowers,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Meadow biome
+minecraft:short_dry_grass,Short Dry Grass,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Desert / Savanna
+minecraft:tall_dry_grass,Tall Dry Grass,Nature,New 1.21.5,64,0,False,0.0,Mine with Shears,,Desert / Savanna
+minecraft:dandelion,Dandelion,Nature,Flower,64,0,False,0.0,Mine,,
+minecraft:poppy,Poppy,Nature,Flower,64,0,False,0.0,Mine,,
+minecraft:blue_orchid,Blue Orchid,Nature,Flower,64,0,False,0.0,Mine,,Swamp only
+minecraft:allium,Allium,Nature,Flower,64,0,False,0.0,Mine,,Flower Forest / Mountains
+minecraft:azure_bluet,Azure Bluet,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:red_tulip,Red Tulip,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:orange_tulip,Orange Tulip,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:white_tulip,White Tulip,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:pink_tulip,Pink Tulip,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:oxeye_daisy,Oxeye Daisy,Nature,Flower,64,0,False,0.0,Mine,,Plains
+minecraft:cornflower,Cornflower,Nature,Flower,64,0,False,0.0,Mine,,Plains / Meadow
+minecraft:lily_of_the_valley,Lily of the Valley,Nature,Flower,64,0,False,0.0,Mine,,Flower Forest
+minecraft:wither_rose,Wither Rose,Nature,Flower,64,0,False,0.0,Kill mobs with Wither,,High difficulty
+minecraft:torchflower,Torchflower,Nature,Flower,64,0,False,0.0,Sniff egg,,Sniffer required
+minecraft:pink_petals,Pink Petals,Nature,Flower,64,0,False,0.0,Mine,,Cherry Grove biome
+minecraft:sunflower,Sunflower,Nature,Tall Flower,64,0,False,0.0,Mine with Shears,,Sunflower Plains
+minecraft:lilac,Lilac,Nature,Tall Flower,64,0,False,0.0,Mine with Shears,,Forest
+minecraft:rose_bush,Rose Bush,Nature,Tall Flower,64,0,False,0.0,Mine with Shears,,Forest
+minecraft:peony,Peony,Nature,Tall Flower,64,0,False,0.0,Mine with Shears,,Forest
+minecraft:pitcher_plant,Pitcher Plant,Nature,Tall Flower,64,0,False,0.0,Sniff egg,,Sniffer required
+minecraft:brown_mushroom,Brown Mushroom,Nature,Mushroom,64,0,False,0.0,Mine,,Dark areas / Swamp
+minecraft:red_mushroom,Red Mushroom,Nature,Mushroom,64,0,False,0.0,Mine,,Dark areas / Swamp
+minecraft:crimson_fungus,Crimson Fungus,Nature,Nether,64,0,False,0.0,Mine,,Crimson Forest
+minecraft:warped_fungus,Warped Fungus,Nature,Nether,64,0,False,0.0,Mine,,Warped Forest
+minecraft:apple,Apple,Food,Basic,64,0,False,0.0,Drop from oak leaves,,
+minecraft:bread,Bread,Food,Basic,64,0,False,0.0,Craft,,
+minecraft:wheat,Wheat,Food,Crop,64,0,False,0.0,Grow,,
+minecraft:carrot,Carrot,Food,Crop,64,0,False,0.0,Loot / Grow,,Village farms / zombie drop
+minecraft:potato,Potato,Food,Crop,64,0,False,0.0,Loot / Grow,,Village farms / zombie drop
+minecraft:baked_potato,Baked Potato,Food,Cooked,64,0,False,0.0,Smelt,,
+minecraft:melon_slice,Melon Slice,Food,Crop,64,0,False,0.0,Grow / Jungle,,
+minecraft:pumpkin,Pumpkin,Food,Crop,64,0,False,0.0,Find / Grow,,
+minecraft:beef,Raw Beef,Food,Meat,64,0,False,0.0,Kill cow,,
+minecraft:cooked_beef,Cooked Beef,Food,Cooked,64,0,False,0.0,Smelt / Kill with fire,,
+minecraft:porkchop,Raw Porkchop,Food,Meat,64,0,False,0.0,Kill pig,,
+minecraft:cooked_porkchop,Cooked Porkchop,Food,Cooked,64,0,False,0.0,Smelt,,
+minecraft:chicken,Raw Chicken,Food,Meat,64,0,False,0.0,Kill chicken,,
+minecraft:cooked_chicken,Cooked Chicken,Food,Cooked,64,0,False,0.0,Smelt,,
+minecraft:mutton,Raw Mutton,Food,Meat,64,0,False,0.0,Kill sheep,,
+minecraft:cooked_mutton,Cooked Mutton,Food,Cooked,64,0,False,0.0,Smelt,,
+minecraft:rabbit,Raw Rabbit,Food,Meat,64,0,False,0.0,Kill rabbit,,
+minecraft:cooked_rabbit,Cooked Rabbit,Food,Cooked,64,0,False,0.0,Smelt,,
+minecraft:rabbit_stew,Rabbit Stew,Food,Stew,1,0,False,0.0,Craft,,
+minecraft:mushroom_stew,Mushroom Stew,Food,Stew,1,0,False,0.0,Craft,,
+minecraft:beetroot_soup,Beetroot Soup,Food,Stew,1,0,False,0.0,Craft,,
+minecraft:suspicious_stew,Suspicious Stew,Food,Stew,1,0,False,0.0,Craft,,Multiple variants
+minecraft:cod,Raw Cod,Food,Fish,64,0,False,0.0,Fish / Kill,,
+minecraft:cooked_cod,Cooked Cod,Food,Fish,64,0,False,0.0,Smelt,,
+minecraft:salmon,Raw Salmon,Food,Fish,64,0,False,0.0,Fish / Kill,,
+minecraft:cooked_salmon,Cooked Salmon,Food,Fish,64,0,False,0.0,Smelt,,
+minecraft:tropical_fish,Tropical Fish,Food,Fish,64,0,False,0.0,Fish / Kill,,Warm ocean
+minecraft:pufferfish,Pufferfish,Food,Fish,64,0,False,0.0,Fish / Kill,,
+minecraft:cookie,Cookie,Food,Basic,64,0,False,0.0,Craft,,
+minecraft:cake,Cake,Food,Basic,1,0,False,0.0,Craft,,
+minecraft:pumpkin_pie,Pumpkin Pie,Food,Basic,64,0,False,0.0,Craft,,
+minecraft:honey_bottle,Honey Bottle,Food,Special,4,0,False,0.0,Use bottle on beehive,,
+minecraft:golden_apple,Golden Apple,Food,Special,64,0,False,0.0,Craft / Chest,,
+minecraft:enchanted_golden_apple,Enchanted Golden Apple,Food,Special,64,0,False,0.0,Chest loot only,,Cannot craft — dungeon/mineshaft loot
+minecraft:golden_carrot,Golden Carrot,Food,Special,64,0,False,0.0,Craft,,
+minecraft:blue_egg,Blue Egg,Food,New 1.21.5,16,0,False,0.0,Cold chicken variant,,Requires cold biome chicken
+minecraft:brown_egg,Brown Egg,Food,New 1.21.5,16,0,False,0.0,Warm chicken variant,,Requires warm biome chicken
+minecraft:wooden_pickaxe,Wooden Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:stone_pickaxe,Stone Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:iron_pickaxe,Iron Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:golden_pickaxe,Golden Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:diamond_pickaxe,Diamond Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:netherite_pickaxe,Netherite Pickaxe,Tools,Pickaxe,1,0,False,0.0,Craft,,
+minecraft:wooden_axe,Wooden Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:stone_axe,Stone Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:iron_axe,Iron Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:golden_axe,Golden Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:diamond_axe,Diamond Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:netherite_axe,Netherite Axe,Tools,Axe,1,0,False,0.0,Craft,,
+minecraft:wooden_shovel,Wooden Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:stone_shovel,Stone Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:iron_shovel,Iron Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:golden_shovel,Golden Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:diamond_shovel,Diamond Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:netherite_shovel,Netherite Shovel,Tools,Shovel,1,0,False,0.0,Craft,,
+minecraft:wooden_hoe,Wooden Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:stone_hoe,Stone Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:iron_hoe,Iron Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:golden_hoe,Golden Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:diamond_hoe,Diamond Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:netherite_hoe,Netherite Hoe,Tools,Hoe,1,0,False,0.0,Craft,,
+minecraft:shears,Shears,Tools,Special,1,0,False,0.0,Craft,,
+minecraft:flint_and_steel,Flint and Steel,Tools,Special,1,0,False,0.0,Craft,,
+minecraft:fishing_rod,Fishing Rod,Tools,Special,1,0,False,0.0,Craft,,
+minecraft:compass,Compass,Tools,Navigation,1,0,False,0.0,Craft,,
+minecraft:clock,Clock,Tools,Navigation,1,0,False,0.0,Craft,,
+minecraft:map,Empty Map,Tools,Navigation,64,0,False,0.0,Craft,,
+minecraft:spyglass,Spyglass,Tools,Navigation,1,0,False,0.0,Craft,,
+minecraft:lead,Lead,Tools,Special,64,0,False,0.0,Craft,,
+minecraft:name_tag,Name Tag,Tools,Special,64,0,False,0.0,Fishing / Chest,,
+minecraft:brush,Brush,Tools,Special,1,0,False,0.0,Craft,,For archaeology
+minecraft:saddle,Saddle,Tools,Special,1,0,False,0.0,Craft (1.21.6+) / Chest,,Now craftable in 1.21.6
+minecraft:bucket,Bucket,Tools,Container,16,0,False,0.0,Craft,,
+minecraft:water_bucket,Water Bucket,Tools,Container,1,0,False,0.0,Fill bucket,,
+minecraft:lava_bucket,Lava Bucket,Tools,Container,1,0,False,0.0,Fill bucket,,
+minecraft:milk_bucket,Milk Bucket,Tools,Container,1,0,False,0.0,Use bucket on cow,,
+minecraft:powder_snow_bucket,Powder Snow Bucket,Tools,Container,1,0,False,0.0,Use bucket on powder snow,,
+minecraft:axolotl_bucket,Axolotl Bucket,Tools,Container,1,0,False,0.0,Scoop up axolotl,,Lush Caves
+minecraft:cod_bucket,Cod Bucket,Tools,Container,1,0,False,0.0,Scoop up cod,,
+minecraft:salmon_bucket,Salmon Bucket,Tools,Container,1,0,False,0.0,Scoop up salmon,,
+minecraft:tropical_fish_bucket,Tropical Fish Bucket,Tools,Container,1,0,False,0.0,Scoop up tropical fish,,
+minecraft:pufferfish_bucket,Pufferfish Bucket,Tools,Container,1,0,False,0.0,Scoop up pufferfish,,
+minecraft:tadpole_bucket,Tadpole Bucket,Tools,Container,1,0,False,0.0,Scoop up tadpole,,Swamp
+minecraft:wooden_sword,Wooden Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:stone_sword,Stone Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:iron_sword,Iron Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:golden_sword,Golden Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:diamond_sword,Diamond Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:netherite_sword,Netherite Sword,Weapons,Sword,1,0,False,0.0,Craft,,
+minecraft:bow,Bow,Weapons,Ranged,1,0,False,0.0,Craft,,
+minecraft:crossbow,Crossbow,Weapons,Ranged,1,0,False,0.0,Craft,,
+minecraft:arrow,Arrow,Weapons,Ammo,64,0,False,0.0,Craft / Skeleton drop,,
+minecraft:spectral_arrow,Spectral Arrow,Weapons,Ammo,64,0,False,0.0,Craft,,Requires glowstone
+minecraft:trident,Trident,Weapons,Special,1,0,False,0.0,Drowned drop,,~8.5% chance
+minecraft:mace,Mace,Weapons,Special,1,0,False,0.0,Craft,,Heavy Core from Ominous Vault + Breeze Rod
+minecraft:leather_helmet,Leather Helmet,Armor,Leather,1,0,False,0.0,Craft,,
+minecraft:leather_chestplate,Leather Chestplate,Armor,Leather,1,0,False,0.0,Craft,,
+minecraft:leather_leggings,Leather Leggings,Armor,Leather,1,0,False,0.0,Craft,,
+minecraft:leather_boots,Leather Boots,Armor,Leather,1,0,False,0.0,Craft,,
+minecraft:chainmail_helmet,Chainmail Helmet,Armor,Chainmail,1,0,False,0.0,Trade / Chest,,Cannot craft
+minecraft:chainmail_chestplate,Chainmail Chestplate,Armor,Chainmail,1,0,False,0.0,Trade / Chest,,Cannot craft
+minecraft:chainmail_leggings,Chainmail Leggings,Armor,Chainmail,1,0,False,0.0,Trade / Chest,,Cannot craft
+minecraft:chainmail_boots,Chainmail Boots,Armor,Chainmail,1,0,False,0.0,Trade / Chest,,Cannot craft
+minecraft:iron_helmet,Iron Helmet,Armor,Iron,1,0,False,0.0,Craft,,
+minecraft:iron_chestplate,Iron Chestplate,Armor,Iron,1,0,False,0.0,Craft,,
+minecraft:iron_leggings,Iron Leggings,Armor,Iron,1,0,False,0.0,Craft,,
+minecraft:iron_boots,Iron Boots,Armor,Iron,1,0,False,0.0,Craft,,
+minecraft:golden_helmet,Golden Helmet,Armor,Gold,1,0,False,0.0,Craft,,
+minecraft:golden_chestplate,Golden Chestplate,Armor,Gold,1,0,False,0.0,Craft,,
+minecraft:golden_leggings,Golden Leggings,Armor,Gold,1,0,False,0.0,Craft,,
+minecraft:golden_boots,Golden Boots,Armor,Gold,1,0,False,0.0,Craft,,
+minecraft:diamond_helmet,Diamond Helmet,Armor,Diamond,1,0,False,0.0,Craft,,
+minecraft:diamond_chestplate,Diamond Chestplate,Armor,Diamond,1,0,False,0.0,Craft,,
+minecraft:diamond_leggings,Diamond Leggings,Armor,Diamond,1,0,False,0.0,Craft,,
+minecraft:diamond_boots,Diamond Boots,Armor,Diamond,1,0,False,0.0,Craft,,
+minecraft:netherite_helmet,Netherite Helmet,Armor,Netherite,1,0,False,0.0,Upgrade diamond,,
+minecraft:netherite_chestplate,Netherite Chestplate,Armor,Netherite,1,0,False,0.0,Upgrade diamond,,
+minecraft:netherite_leggings,Netherite Leggings,Armor,Netherite,1,0,False,0.0,Upgrade diamond,,
+minecraft:netherite_boots,Netherite Boots,Armor,Netherite,1,0,False,0.0,Upgrade diamond,,
+minecraft:turtle_helmet,Turtle Helmet,Armor,Special,1,0,False,0.0,Craft,,Scute from baby turtle
+minecraft:elytra,Elytra,Armor,Special,1,0,False,0.0,End City chest,,One per End Ship
+minecraft:stick,Stick,Materials,Basic,64,0,False,0.0,Craft,,
+minecraft:string,String,Materials,Basic,64,0,False,0.0,Spider drop / Cobweb,,
+minecraft:feather,Feather,Materials,Basic,64,0,False,0.0,Chicken drop,,
+minecraft:flint,Flint,Materials,Basic,64,0,False,0.0,Gravel drop,,
+minecraft:gunpowder,Gunpowder,Materials,Basic,64,0,False,0.0,Creeper / Ghast drop,,
+minecraft:bone,Bone,Materials,Basic,64,0,False,0.0,Skeleton drop,,
+minecraft:bone_meal,Bone Meal,Materials,Basic,64,0,False,0.0,Craft / Composter,,
+minecraft:leather,Leather,Materials,Basic,64,0,False,0.0,Cow / Horse kill,,
+minecraft:wool,Wool (White),Materials,Wool,64,0,False,0.0,Shear / Kill sheep,,Other colors below
+minecraft:ink_sac,Ink Sac,Materials,Dye,64,0,False,0.0,Squid kill,,
+minecraft:glow_ink_sac,Glow Ink Sac,Materials,Dye,64,0,False,0.0,Glow Squid kill,,
+minecraft:cocoa_beans,Cocoa Beans,Materials,Dye,64,0,False,0.0,Cocoa pods — Jungle,,
+minecraft:lapis_lazuli,Lapis Lazuli,Materials,Dye,64,0,False,0.0,Mine / Craft,,
+minecraft:coal,Coal,Materials,Fuel,64,0,False,0.0,Mine / Kill,,
+minecraft:charcoal,Charcoal,Materials,Fuel,64,0,False,0.0,Smelt wood,,
+minecraft:raw_iron,Raw Iron,Materials,Raw,64,0,False,0.0,Mine,,
+minecraft:raw_copper,Raw Copper,Materials,Raw,64,0,False,0.0,Mine,,
+minecraft:raw_gold,Raw Gold,Materials,Raw,64,0,False,0.0,Mine,,
+minecraft:iron_ingot,Iron Ingot,Materials,Ingot,64,0,False,0.0,Smelt / Craft,,
+minecraft:copper_ingot,Copper Ingot,Materials,Ingot,64,0,False,0.0,Smelt,,
+minecraft:gold_ingot,Gold Ingot,Materials,Ingot,64,0,False,0.0,Smelt,,
+minecraft:diamond,Diamond,Materials,Gem,64,0,False,0.0,Mine,,
+minecraft:emerald,Emerald,Materials,Gem,64,0,False,0.0,Mine / Trade,,
+minecraft:amethyst_shard,Amethyst Shard,Materials,Gem,64,0,False,0.0,Mine amethyst cluster,,
+minecraft:quartz,Nether Quartz,Materials,Nether,64,0,False,0.0,Mine,,
+minecraft:netherite_ingot,Netherite Ingot,Materials,Nether,64,0,False,0.0,Craft,,4 netherite scrap + 4 gold
+minecraft:netherite_scrap,Netherite Scrap,Materials,Nether,64,0,False,0.0,Smelt ancient debris,,
+minecraft:blaze_rod,Blaze Rod,Materials,Nether,64,0,False,0.0,Blaze kill,,
+minecraft:blaze_powder,Blaze Powder,Materials,Nether,64,0,False,0.0,Craft,,
+minecraft:ghast_tear,Ghast Tear,Materials,Nether,64,0,False,0.0,Ghast kill,,
+minecraft:magma_cream,Magma Cream,Materials,Nether,64,0,False,0.0,Magma Cube kill / Craft,,
+minecraft:nether_wart,Nether Wart,Materials,Nether,64,0,False,0.0,Nether Fortress,,
+minecraft:nether_star,Nether Star,Materials,Boss,1,0,False,0.0,Kill Wither,,Hardcore high risk
+minecraft:ender_pearl,Ender Pearl,Materials,End,16,0,False,0.0,Enderman kill / Trade,,
+minecraft:ender_eye,Eye of Ender,Materials,End,64,0,False,0.0,Craft,,
+minecraft:dragon_egg,Dragon Egg,Materials,Boss,1,0,False,0.0,Kill Ender Dragon,,One per world
+minecraft:dragon_breath,Dragon's Breath,Materials,Boss,64,0,False,0.0,Use bottle on Ender Dragon breath,,
+minecraft:shulker_shell,Shulker Shell,Materials,End,64,0,False,0.0,Shulker kill,,~50% drop chance
+minecraft:prismarine_shard,Prismarine Shard,Materials,Ocean,64,0,False,0.0,Guardian kill,,
+minecraft:prismarine_crystals,Prismarine Crystals,Materials,Ocean,64,0,False,0.0,Guardian kill,,
+minecraft:sponge,Sponge,Materials,Ocean,64,0,False,0.0,Elder Guardian kill / Ocean Monument,,
+minecraft:scute,Scute,Materials,Special,64,0,False,0.0,Baby turtle growing up,,Breed turtles
+minecraft:heart_of_the_sea,Heart of the Sea,Materials,Special,1,0,False,0.0,Buried Treasure,,One per treasure
+minecraft:nautilus_shell,Nautilus Shell,Materials,Special,64,0,False,0.0,Drowned drop / Fishing / Wandering Trader,,
+minecraft:phantom_membrane,Phantom Membrane,Materials,Special,64,0,False,0.0,Phantom kill,,Sleep deprivation mechanic
+minecraft:rabbit_hide,Rabbit Hide,Materials,Basic,64,0,False,0.0,Kill rabbit,,
+minecraft:rabbit_foot,Rabbit Foot,Materials,Special,64,0,False,0.0,Kill rabbit,,Low drop rate
+minecraft:slime_ball,Slimeball,Materials,Basic,64,0,False,0.0,Slime kill,,Swamp / Y<40
+minecraft:spider_eye,Spider Eye,Materials,Basic,64,0,False,0.0,Spider kill,,
+minecraft:fermented_spider_eye,Fermented Spider Eye,Materials,Brewing,64,0,False,0.0,Craft,,
+minecraft:rotten_flesh,Rotten Flesh,Materials,Basic,64,0,False,0.0,Zombie / Drowned kill,,
+minecraft:turtle_scute,Turtle Scute,Materials,Special,64,0,False,0.0,Baby turtle,,Renamed in 1.21.x
+minecraft:armadillo_scute,Armadillo Scute,Materials,Special,64,0,False,0.0,Armadillo brushing,,Savanna/Badlands
+minecraft:wolf_armor,Wolf Armor,Armor,Special,1,0,False,0.0,Craft from armadillo scute,,
+minecraft:redstone,Redstone Dust,Redstone,Basic,64,0,False,0.0,Mine,,
+minecraft:redstone_torch,Redstone Torch,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:lever,Lever,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:stone_button,Stone Button,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:oak_button,Oak Button,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:stone_pressure_plate,Stone Pressure Plate,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:oak_pressure_plate,Oak Pressure Plate,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:tripwire_hook,Tripwire Hook,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:observer,Observer,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:piston,Piston,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:sticky_piston,Sticky Piston,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:dropper,Dropper,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:dispenser,Dispenser,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:hopper,Hopper,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:comparator,Redstone Comparator,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:repeater,Redstone Repeater,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:daylight_detector,Daylight Detector,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:target,Target,Redstone,Basic,64,0,False,0.0,Craft,,
+minecraft:crafter,Crafter,Redstone,New 1.21,64,0,False,0.0,Craft,,Added in 1.21
+minecraft:tnt,TNT,Redstone,Explosive,64,0,False,0.0,Craft,,
+minecraft:glass_bottle,Glass Bottle,Brewing,Basic,64,0,False,0.0,Craft,,
+minecraft:water_bottle,Water Bottle (Potion),Brewing,Basic,64,0,False,0.0,Fill bottle,,
+minecraft:awkward_potion,Awkward Potion,Brewing,Basic,1,0,False,0.0,Brew nether wart,,
+minecraft:thick_potion,Thick Potion,Brewing,Basic,1,0,False,0.0,Brew glowstone dust,,
+minecraft:mundane_potion,Mundane Potion,Brewing,Basic,1,0,False,0.0,Brew water bottle,,
+minecraft:potion_of_healing,Potion of Healing,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_regeneration,Potion of Regeneration,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_strength,Potion of Strength,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_swiftness,Potion of Swiftness,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_fire_resistance,Potion of Fire Resistance,Brewing,Potion,1,0,False,0.0,Brew,,Essential for Nether
+minecraft:potion_of_water_breathing,Potion of Water Breathing,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_night_vision,Potion of Night Vision,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_invisibility,Potion of Invisibility,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_leaping,Potion of Leaping,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_slowness,Potion of Slowness,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_weakness,Potion of Weakness,Brewing,Potion,1,0,False,0.0,Brew,,For zombie curing
+minecraft:potion_of_poison,Potion of Poison,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_harming,Potion of Harming,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_slow_falling,Potion of Slow Falling,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_turtle_master,Potion of the Turtle Master,Brewing,Potion,1,0,False,0.0,Brew,,
+minecraft:potion_of_luck,Potion of Luck,Brewing,Potion,1,0,False,0.0,Command only,,Uncraftable — may be excluded
+minecraft:music_disc_13,Music Disc (13),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_cat,Music Disc (Cat),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_blocks,Music Disc (Blocks),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_chirp,Music Disc (Chirp),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_far,Music Disc (Far),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_mall,Music Disc (Mall),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_mellohi,Music Disc (Mellohi),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_stal,Music Disc (Stal),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_strad,Music Disc (Strad),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_ward,Music Disc (Ward),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_11,Music Disc (11),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_wait,Music Disc (Wait),Music,Disc,1,0,False,0.0,Dungeon chest,,
+minecraft:music_disc_otherside,Music Disc (Otherside),Music,Disc,1,0,False,0.0,Dungeon/Bastion chest,,
+minecraft:music_disc_relic,Music Disc (Relic),Music,Disc,1,0,False,0.0,Archaeology — Trail Ruins,,
+minecraft:music_disc_5,Music Disc (5),Music,Disc,1,0,False,0.0,Craft with disc fragments,,9 fragments from Ancient City
+minecraft:music_disc_precipice,Music Disc (Precipice),Music,Disc,1,0,False,0.0,Trial Chamber vault,,Added 1.21
+minecraft:music_disc_creator,Music Disc (Creator),Music,Disc,1,0,False,0.0,Bastion Remnant chest,,Added 1.21
+minecraft:music_disc_creator_music_box,Music Disc (Creator Music Box),Music,Disc,1,0,False,0.0,Bastion Remnant chest,,Added 1.21
+minecraft:music_disc_tears,Music Disc (Tears),Music,Disc,1,0,False,0.0,Craft (echo shard + disc fragment),HIGH,Added 1.21.6 — Chase the Skies
+minecraft:happy_ghast,Happy Ghast Egg,New 1.21.6,Mob,1,0,False,0.0,Find dried ghast in Nether / Hydrate,,Dried ghast + water = happy ghast
+minecraft:ghastling,Ghastling,New 1.21.6,Mob,1,0,False,0.0,Baby happy ghast,,
+minecraft:book,Book,Misc,Basic,64,0,False,0.0,Craft,,
+minecraft:bookshelf,Bookshelf,Misc,Basic,64,0,False,0.0,Craft,,
+minecraft:enchanted_book,Enchanted Book,Misc,Special,64,0,False,0.0,Enchant / Trade / Fish / Chest,,
+minecraft:experience_bottle,Bottle o' Enchanting,Misc,Special,64,0,False,0.0,Villager trade,,
+minecraft:knowledge_book,Knowledge Book,Misc,Special,1,0,False,0.0,Command only,,Excluded from run
+minecraft:crafting_table,Crafting Table,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:furnace,Furnace,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:blast_furnace,Blast Furnace,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:smoker,Smoker,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:campfire,Campfire,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:soul_campfire,Soul Campfire,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:brewing_stand,Brewing Stand,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:cauldron,Cauldron,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:enchanting_table,Enchanting Table,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:anvil,Anvil,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:grindstone,Grindstone,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:smithing_table,Smithing Table,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:loom,Loom,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:cartography_table,Cartography Table,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:fletching_table,Fletching Table,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:stonecutter,Stonecutter,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:barrel,Barrel,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:chest,Chest,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:trapped_chest,Trapped Chest,Utility,Basic,64,0,False,0.0,Craft,,
+minecraft:ender_chest,Ender Chest,Utility,Special,64,0,False,0.0,Craft,,
+minecraft:shulker_box,Shulker Box,Utility,Special,1,0,False,0.0,Craft,,
+minecraft:bee_nest,Bee Nest,Utility,Nature,64,0,False,0.0,Silk Touch,,
+minecraft:beehive,Beehive,Utility,Nature,64,0,False,0.0,Craft,,
+minecraft:bell,Bell,Utility,Special,64,0,False,0.0,Village / Trade,,
+minecraft:conduit,Conduit,Utility,Special,1,0,False,0.0,Craft,,Heart of the Sea
+minecraft:lodestone,Lodestone,Utility,Special,64,0,False,0.0,Craft (1.21.5+) / Chest,,Now craftable in 1.21.5
+minecraft:respawn_anchor,Respawn Anchor,Utility,Nether,64,0,False,0.0,Craft,,
